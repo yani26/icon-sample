@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">icon_sample</string>
+    <string name="measure_pulse">Measure</string>
+    <string name="send_status">Send Data</string>
+
+    <string name="server" translatable="false">wss://203.135.68.129:8443/revengeWS</string>
+<string name="audio_server" translatable="false">203.135.68.129</string>
+
+
+<string name="qrcode_scan">Please scan the QR code for setup.</string>
+    <string name="online">online</string>
+    <string name="offline">offline</string>
+
+    <string name="qrcode_title">Your QRCode</string>
+    <string name="add_device">Add Device</string>
+    <string name="action_add_device">Add Device</string>
+</resources>
