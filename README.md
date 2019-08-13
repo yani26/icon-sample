@@ -26,6 +26,6 @@ DeviceManager-Server:disconnect-->
 * MainActivity
 
 ## screenshot
-![](https://i.imgur.com/4ozVe1e.png)
+![](https://i.imgur.com/4ozVe1e.png = 108*192)
 
 
